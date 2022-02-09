@@ -30,7 +30,7 @@ def bal_par(string):
      else:
          return False
 
-print(bal_par('(()'))
+print(bal_par("(())"))
 
 
 
